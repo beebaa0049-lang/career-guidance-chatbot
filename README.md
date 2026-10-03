@@ -10,8 +10,9 @@ related questions with a professionally engineered system prompt,
 persona rules and topic guardrails.
 
 ## 🚀 Live Demo
-🔗 **Deployment Link:** [YAHAN APNA GEM LINK PASTE KAREIN]
-🎥 **Demo Video:** [YAHAN YOUTUBE LINK AAYEGA]
+🔗 **Deployment Link:** [https://gemini.google.com/gem/10rh7O_M90GGDUEufFTiXcvvUag0051Cd?usp=drive_link
+]
+🎥 **Demo Video:** [https://drive.google.com/file/d/1guu56uJi8g892_Yb58ujZgjtCC2OISRk/view?usp=sharing]
 
 ## ✨ Features
 - Prompt engineering (persona, structured responses, guardrails)
